@@ -3,7 +3,7 @@ trigger:
 - {{ branch }}
 
 pool:
-  name: linux-selfhosted
+  vmImage: 'windows-latest'
 
 variables:
   solution: '**/*.sln'
