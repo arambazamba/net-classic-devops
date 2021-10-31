@@ -5,7 +5,7 @@ trigger:
       - master
 
 pool:
-  name: linux-selfhosted
+  name: win-selfhosted
 
 variables:
   solution: '**/*.sln'
