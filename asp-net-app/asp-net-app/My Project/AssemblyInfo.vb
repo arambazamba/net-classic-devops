@@ -7,17 +7,17 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-<Assembly: AssemblyTitle("NETClassicTest")>
+<Assembly: AssemblyTitle("asp_net_app")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("NETClassicTest")>
+<Assembly: AssemblyProduct("asp_net_app")>
 <Assembly: AssemblyCopyright("Copyright ©  2021")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("9f75089f-a758-4ed5-934d-e19bd6d2f27d")>
+<Assembly: Guid("9eb4f6c4-b152-4f07-a4d4-5b12270d6825")>
 
 ' Version information for an assembly consists of the following four values:
 '
