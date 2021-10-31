@@ -1,6 +1,8 @@
 
 trigger:
-- {{ branch }}
+  branches:
+    include:
+      - master
 
 pool:
   name: linux-selfhosted
